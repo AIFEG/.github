@@ -1,5 +1,14 @@
-## Hi there 👋
+## This is AIFEG, the Artificial Intelligence Frontier Exploration Group
 
+### Who are we?
+
+AIFEG is a joint program consisted of researchers and students from several universities/institutes around the world. We wish to keep up with the most cutting-edge techniques here and provide promising solution for future AI development.
+
+Currently, our team members are from Mohamed bin Zayed University of Artificial Intelligence (MBZUAI, UAE🇦🇪), Nanyang Technological University (NTU, Singapore🇸🇬), Chinese Academy of Science (CAS, China🇨🇳) and Northeastern University (NEU, China🇨🇳).
+
+### Open-source Projects
+
+Coming soon...
 <!--
 
 **Here are some ideas to get you started:**
