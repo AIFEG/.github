@@ -7,8 +7,10 @@ AIFEG is a joint program consisted of researchers and students from several univ
 Currently, our team members are from Mohamed bin Zayed University of Artificial Intelligence (MBZUAI, UAE🇦🇪), Nanyang Technological University (NTU, Singapore🇸🇬), Chinese Academy of Science (CAS, China🇨🇳) and Northeastern University (NEU, China🇨🇳).
 
 ### Open-source Projects
+**A preliminary probing for Autonomus Driving by Vision Language Model** &nbsp; [code](https://github.com/AIFEG/LLM_AD)
 
-Coming soon...
+*More projects will be announced here!*
+
 <!--
 
 **Here are some ideas to get you started:**
