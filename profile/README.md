@@ -8,6 +8,7 @@ Currently, our team members are from Mohamed bin Zayed University of Artificial 
 
 ### Open-source Projects
 **BenchGPT: Benchmarking Cross-style Visual Capability of Large Multimodal Models** &nbsp; [code](https://github.com/AIFEG/BenchGPT) &nbsp; [huggingface](https://huggingface.co/datasets/AIFEG/BenchGPT)
+
 **A preliminary probing for Autonomus Driving by Vision Language Model** &nbsp; [code](https://github.com/AIFEG/LLM_AD)
 
 *More projects will be announced here!*
