@@ -2,7 +2,7 @@
 
 ### Who are we?
 
-AIFEG is a joint program consisted of researchers and students from several universities/institutes around the world. We wish to keep up with the most cutting-edge techniques here and provide promising solution for future AI development.
+AIFEG is a joint program consists of researchers and students from several universities/institutes around the world. We wish to keep up with the most cutting-edge techniques here and provide promising solution for future AI development.
 
 Currently, our team members are from Mohamed bin Zayed University of Artificial Intelligence (MBZUAI, UAE🇦🇪), Nanyang Technological University (NTU, Singapore🇸🇬), The University of Sydney (USYD, Australia🇦🇺), University of Technology Sydney (UTS, Australia🇦🇺), and Northeastern University at Qinhuangdao (NEUQ, China🇨🇳).
 
