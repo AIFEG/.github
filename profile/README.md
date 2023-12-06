@@ -7,7 +7,7 @@ AIFEG is a joint program consisted of researchers and students from several univ
 Currently, our team members are from Mohamed bin Zayed University of Artificial Intelligence (MBZUAI, UAE🇦🇪), Nanyang Technological University (NTU, Singapore🇸🇬), The University of Sydney (USYD, Australia🇦🇺), University of Technology Sydney (UTS, Australia🇦🇺), and Northeastern University at Qinhuangdao (NEUQ, China🇨🇳).
 
 ### Open-source Projects
-**BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models** &nbsp; [GitHub](https://github.com/AIFEG/BenchGPT) &nbsp; [Hugging Face](https://huggingface.co/datasets/AIFEG/BenchGPT) &nbsp; [arXiv](https://arxiv.org/abs/2312.02896) &nbsp;
+**BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models** &nbsp; [GitHub](https://github.com/AIFEG/BenchLMM) &nbsp; [Hugging Face](https://huggingface.co/datasets/AIFEG/BenchLMM) &nbsp; [arXiv](https://arxiv.org/abs/2312.02896) &nbsp;
 
 **A preliminary probing for Autonomus Driving by Vision Language Model** &nbsp; [GitHub](https://github.com/AIFEG/LLM_AD)
 
