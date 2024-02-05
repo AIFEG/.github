@@ -13,6 +13,8 @@ Currently, our team members are from Mohamed bin Zayed University of Artificial 
 
 *More projects will be announced here!*
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AIFEG&show_icons=true&locale=en" alt="AIFEG" /></p>
+
 <!--
 
 **Here are some ideas to get you started:**
